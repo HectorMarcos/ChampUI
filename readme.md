@@ -17,11 +17,15 @@
  - [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
  - [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins)
  - [SharedMedia](https://www.curseforge.com/wow/addons/sharedmedia)
- - retail folder (copy and paste all content inside your retail folder)
+ - [retail folder](https://github.com/HectorMarcos/ChampUI/tree/master/_retail_)
 
 **Addons Profiles**
 
- - ElvUI
- - ElvUI Private Settings (Character Settings)
- - Plater
- - Details
+ - [ElvUI](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui.txt)
+ - [ElvUI Private Settings (Character Settings)](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_private.txt)
+ - [Plater](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt)
+ - [Details](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt)
+ 
+ **Customs WA**
+ 
+ - [DragonRiding](https://github.com/HectorMarcos/ChampUI/blob/master/wa/dragonriding.txt)
