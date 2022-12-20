@@ -11,7 +11,7 @@
 
 **Required Addons**
 
-- [ElvUI](https://www.tukui.org/download.php?ui=elvui)
+ - [ElvUI](https://www.tukui.org/download.php?ui=elvui)
  - [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
  - [Details](https://www.curseforge.com/wow/addons/details)
  - [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
