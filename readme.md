@@ -17,7 +17,7 @@
  - [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
  - [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins)
  - [SharedMedia](https://www.curseforge.com/wow/addons/sharedmedia)
- - [retail folder](https://github.com/HectorMarcos/ChampUI/tree/master/_retail_)
+ - [SharedMedia_MyMedia](https://github.com/HectorMarcos/ChampUI/archive/refs/heads/master.zip)
 
 **Addons Profiles**
 
