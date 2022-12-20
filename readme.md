@@ -2,6 +2,9 @@
 
 *RedtuzkUI meets NaowhUI*
 
+
+![solo](screens/ChampUI_Solo.jpg?raw=true "Solo")
+
 **Minimalistic ElvUI Layout** 
 
 - Always up-to-date for the latest ElvUI changes  
