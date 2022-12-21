@@ -1,4 +1,4 @@
-## **ChampUI - DPS & TANK**
+## **ChampUI**
 
 *RedtuzkUI meets NaowhUI*
 
@@ -24,7 +24,9 @@
 
 **Addons Profiles**
 
- - [ElvUI](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui.txt)
+ - [ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt)
+ - [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt)
+ - [ElvUI for Class WeakAura *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt)
  - [ElvUI Private Settings (Character Settings)](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_private.txt)
  - [Plater](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt)
  - [Details](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt)
