@@ -1,8 +1,8 @@
-## **ChampUI**
+![logo](screens/logo_alt.png?raw=true "logo")
+
+--
 
 *RedtuzkUI meets NaowhUI*
-
-![logo](screens/logo_alt.png?raw=true "logo")
 
 **Screenshots**
 
@@ -53,5 +53,5 @@ Follow all steps
 9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt) close Plater config.
 
 **Credits to**
-- Redtuzk
-- Naowh
+- [Redtuzk](https://twitter.com/redtuzk)
+- [Naowh](https://twitter.com/Naowhxd)
