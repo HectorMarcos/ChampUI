@@ -2,7 +2,7 @@
 
 *RedtuzkUI meets NaowhUI*
 
-![logo](screens/champui_logo_2.png?raw=true "logo")
+![logo](screens/champui_logo_1.png?raw=true "logo")
 
 **Screenshots**
 
