@@ -32,7 +32,7 @@ ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA
 - [SharedMedia](https://www.curseforge.com/wow/addons/sharedmedia)
 - [SharedMedia_MyMedia](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/_retail_)
 
-**Addons Profiles**
+**Profiles**
 
 - [ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true)
 - [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true)
