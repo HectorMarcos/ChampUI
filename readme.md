@@ -8,8 +8,8 @@
 
 ElvUI DPS & TANK
 
-[ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg) [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg) [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg)[ElvUI HEALER Party](screens/ChampUI_Party.jpg) [ElvUI HEALER Raid](screens/ChampUI_Raid.jpg) 
-[ElvUI Class WA](screens/ChampUI_ClassWA.jpg)
+[ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg?raw=true) [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg?raw=true) [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg?raw=true)[ElvUI HEALER Party](screens/ChampUI_Party.jpg?raw=true) [ElvUI HEALER Raid](screens/ChampUI_Raid.jpg?raw=true) 
+[ElvUI Class WA](screens/ChampUI_ClassWA.jpg?raw=true)
 
 **Minimalistic ElvUI Layout** 
 
@@ -30,16 +30,16 @@ ElvUI DPS & TANK
 
 **Addons Profiles**
 
-- [ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt)
-- [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt)
-- [ElvUI for Class WeakAura *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt)
-- [ElvUI Private Settings (Character Settings)](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_private.txt)
-- [Plater](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt)
-- [Details](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt)
+- [ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true)
+- [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true)
+- [ElvUI for Class WeakAura *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt?raw=true)
+- [ElvUI Private Settings (Character Settings)](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_private.txt?raw=true)
+- [Plater](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true)
+- [Details](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt?raw=true)
  
 **Customs WA (Optional)**
  
-- [DragonRiding](https://github.com/HectorMarcos/ChampUI/blob/master/wa/dragonriding.txt)
+- [DragonRiding](https://github.com/HectorMarcos/ChampUI/blob/master/wa/dragonriding.txt?raw=true)
   
 **How To Tutorial**
 
@@ -49,10 +49,10 @@ Follow all steps
 3. Start your game, make sure all addons required all loaded.
 4. In your first time launching the game you will get a bunch of windows on screen, close it all.
 5. Type `/ec` in chat and press Enter to show ElvUI config panel.
-6. Go to profile section on ElvUI config panel, press Import and copy paste the ElvUI Profile you wish ([ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt) [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt) [ElvUI for Class WeakAura *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt))
+6. Go to profile section on ElvUI config panel, press Import and copy paste the ElvUI Profile you wish ([ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true) [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true) [ElvUI for Class WeakAura *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt?raw=true)
 7. Press Import again and copy and paste ElvUI Private Settings, now you can close ElvUI 
-8. Type `/details config` in chat and press Enter to show Details config panel, go to Profile tab, press Import and copy paste [Details Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt), now you can close Details config panel.
-9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt) close Plater config.
+8. Type `/details config` in chat and press Enter to show Details config panel, go to Profile tab, press Import and copy paste [Details Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt?raw=true), now you can close Details config panel.
+9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true) close Plater config.
 
 **Credits to**
 - [Redtuzk](https://twitter.com/redtuzk)
