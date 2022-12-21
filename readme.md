@@ -8,7 +8,7 @@
 
 ElvUI DPS & TANK
 
-- [ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg?raw=true){:target="_blank"}
+- [ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg?raw=true?target="_blank")
 - [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg?raw=true)
 - [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg?raw=true)
 
