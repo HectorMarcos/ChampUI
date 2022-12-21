@@ -1,8 +1,10 @@
+
 ![logo](screens/logo_alt.png?raw=true "logo")
 
 ---
-
 *RedtuzkUI meets NaowhUI*
+
+As a user of RedtuzkUI for years I felt empty when its not been updated for 10.0 so I decided to port the RedtuzkUI profile to standard ElvUI making a few changes alongside.
 
 **Minimalistic ElvUI Layout** 
 
@@ -20,7 +22,6 @@ ElvUI HEALER *WIP*: [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/C
 ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA.jpg?raw=true)
 
 ---
-
 **Required Addons**
 
 - [ElvUI](https://www.tukui.org/download.php?ui=elvui)
@@ -45,7 +46,6 @@ ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA
 - [DragonRiding](https://github.com/HectorMarcos/ChampUI/blob/master/wa/dragonriding.txt?raw=true)
   
 ---
-
 **How To Tutorial**
 
 Follow all steps
@@ -60,7 +60,6 @@ Follow all steps
 9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true) close Plater config.
 
 ---
-
 **Credits to...**
 - [Redtuzk](https://twitter.com/redtuzk)
 - [Naowh](https://twitter.com/Naowhxd)
