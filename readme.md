@@ -35,6 +35,7 @@
 - [DragonRiding](https://github.com/HectorMarcos/ChampUI/blob/master/wa/dragonriding.txt)
   
 **How To Tutorial**
+
 Follow all steps
 1. Download [ElvUI](https://www.tukui.org/download.php?ui=elvui), [Plater](https://www.curseforge.com/wow/addons/plater-nameplates), [Details](https://www.curseforge.com/wow/addons/details), [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light), [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins), [SharedMedia](https://www.curseforge.com/wow/addons/sharedmedia) and put those into your Addons folder.
 2. Download [SharedMedia_MyMedia](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/_retail_), copy and paste `Fonts` and `Interface` folder into your `_retail_` folder, replace files if you are asked to.
