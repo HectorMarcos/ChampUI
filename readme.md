@@ -1,12 +1,12 @@
 ![logo](screens/logo_alt.png?raw=true "logo")
 
---
+---
 
 *RedtuzkUI meets NaowhUI*
 
 **Screenshots**
 
-[Solo](screens/ChampUI_Solo.jpg)
+[Solo](screens/ChampUI_Solo.jpg) [Party](screens/ChampUI_Party.jpg) [Raid](screens/ChampUI_Raid.jpg)
 
 **Minimalistic ElvUI Layout** 
 
