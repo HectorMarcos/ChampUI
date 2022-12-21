@@ -2,7 +2,7 @@
 
 *RedtuzkUI meets NaowhUI*
 
-![logo](screens/champui_logo_1.png?raw=true "logo")
+![logo](screens/logo_alt.png?raw=true "logo")
 
 **Screenshots**
 
@@ -51,3 +51,7 @@ Follow all steps
 7. Press Import again and copy and paste ElvUI Private Settings, now you can close ElvUI 
 8. Type `/details config` in chat and press Enter to show Details config panel, go to Profile tab, press Import and copy paste [Details Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt), now you can close Details config panel.
 9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt) close Plater config.
+
+**Credits to**
+- Redtuzk
+- Naowh
