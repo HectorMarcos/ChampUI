@@ -16,11 +16,11 @@
 
 **Screenshots**
 
-ElvUI DPS & TANK: [Solo](screens/ChampUI_Solo.jpg?raw=true) [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/ChampUI_Raid.jpg?raw=true)
+ElvUI DPS & TANK: [Solo](screens/ChampUI_Solo.jpg?raw=true) [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/ChampUI_Raid.jpg?raw=true) [Layout](screens/ChampUI_Layout.jpg?raw=true)
 
 ElvUI HEALER *WIP*: [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/ChampUI_Raid.jpg?raw=true) 
 
-ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA.jpg?raw=true)
+ElvUI Class WeakAura Friendly: [Class WA Friendly](screens/ChampUI_CWA.jpg?raw=true) [Class WA Friendly Layout](screens/ChampUI_CWA_Layout.jpg?raw=true)
 
 ---
 **Required Addons**
@@ -37,7 +37,7 @@ ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA
 
 - [ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true)
 - [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true)
-- [ElvUI Class WeakAura Friendly *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt?raw=true)
+- [ElvUI Class WeakAura Friendly](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_cwa.txt?raw=true)
 - [ElvUI Private Settings (Character Settings)](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_private.txt?raw=true)
 - [Plater](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true)
 - [Details](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt?raw=true)
@@ -55,7 +55,7 @@ Follow all steps
 3. Start your game, make sure all addons required all loaded.
 4. In your first time launching the game you will get a bunch of windows on screen, close it all.
 5. Type `/ec` in chat and press Enter to show ElvUI config panel.
-6. Go to profile section on ElvUI config panel, press Import and copy paste the ElvUI Profile you wish ([ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true) [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true) [ElvUI Class WeakAura Friendly *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_middle_wa.txt?raw=true)
+6. Go to profile section on ElvUI config panel, press Import and copy paste the ElvUI Profile you wish ([ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true) [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true) [ElvUI Class WeakAura Friendly](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_cwa.txt?raw=true)
 7. Press Import again and copy and paste ElvUI Private Settings, now you can close ElvUI 
 8. Type `/details config` in chat and press Enter to show Details config panel, go to Profile tab, press Import and copy paste [Details Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/details.txt?raw=true), now you can close Details config panel.
 9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true) close Plater config.
