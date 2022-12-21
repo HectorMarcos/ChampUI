@@ -2,14 +2,27 @@
 
 ---
 
+
+<a href="http://example.com/" target="_blank">example</a>
+
 *RedtuzkUI meets NaowhUI*
 
 **Screenshots**
 
 ElvUI DPS & TANK
 
-[ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg?raw=true) [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg?raw=true) [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg?raw=true)[ElvUI HEALER Party](screens/ChampUI_Party.jpg?raw=true) [ElvUI HEALER Raid](screens/ChampUI_Raid.jpg?raw=true) 
-[ElvUI Class WA](screens/ChampUI_ClassWA.jpg?raw=true)
+- [ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg?raw=true)
+- [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg?raw=true)
+- [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg?raw=true)
+
+ElvUI Class Weak Auras Friendly *WIP*
+
+- [ElvUI Class WA](screens/ChampUI_ClassWA.jpg?raw=true)
+
+ElvUI *WIP*
+
+- [ElvUI HEALER Party](screens/ChampUI_Party.jpg?raw=true)
+- [ElvUI HEALER Raid](screens/ChampUI_Raid.jpg?raw=true) 
 
 **Minimalistic ElvUI Layout** 
 
@@ -29,9 +42,6 @@ ElvUI DPS & TANK
 - [SharedMedia_MyMedia](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/_retail_)
 
 **Addons Profiles**
-
-
-<a href="[http://example.com/](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true)" target="_blank">example</a>
 
 - [ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true)
 - [ElvUI - HEALER *WIP*](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true)
