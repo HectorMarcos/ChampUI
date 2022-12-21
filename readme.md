@@ -50,7 +50,7 @@ ElvUI HEALER *WIP*: [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/C
 
 Follow all steps
 1. Download [ElvUI](https://www.tukui.org/download.php?ui=elvui), [Plater](https://www.curseforge.com/wow/addons/plater-nameplates), [Details](https://www.curseforge.com/wow/addons/details), [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light), [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins), [SharedMedia](https://www.curseforge.com/wow/addons/sharedmedia) and put those into your Addons folder.
-2. Download [SharedMedia_MyMedia](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/_retail_), copy and paste `Fonts` and `Interface` folder into your `_retail_` folder, replace files if you are asked to.
+2. Download [SharedMedia_MyMedia](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/_retail_), copy and paste `Fonts` and `Interface` folder inside your `_retail_` folder, replace files if you are asked to.
 3. Start your game, make sure all addons required all loaded.
 4. In your first time launching the game you will get a bunch of windows on screen, close it all.
 5. Type `/ec` in chat and press Enter to show ElvUI config panel.
