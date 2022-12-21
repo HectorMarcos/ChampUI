@@ -15,9 +15,9 @@
 
 ElvUI DPS & TANK: [Solo](screens/ChampUI_Solo.jpg?raw=true) [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/ChampUI_Raid.jpg?raw=true)
 
-ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA.jpg?raw=true)
-
 ElvUI HEALER *WIP*: [Party](screens/ChampUI_Party.jpg?raw=true) [Raid](screens/ChampUI_Raid.jpg?raw=true) 
+
+ElvUI Class WeakAura Friendly *WIP*: [Class WA Friendly](screens/ChampUI_ClassWA.jpg?raw=true)
 
 ---
 
