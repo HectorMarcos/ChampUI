@@ -10,7 +10,6 @@
 
 **Minimalistic ElvUI Layout** 
 
-- Always up-to-date for the latest ElvUI changes  
 - Focus on clean and clear visibility
 - Attention to details
 - Pixel perfect
