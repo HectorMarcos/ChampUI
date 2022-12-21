@@ -1,4 +1,4 @@
-[eng](readme.me) [esp](readme_esp.me)
+[eng](https://github.com/HectorMarcos/ChampUI/blob/master/readme.md) [esp](https://github.com/HectorMarcos/ChampUI/blob/master/readme_es.md)
 
 ![logo](screens/logo_alt.png?raw=true "logo")
 
