@@ -6,7 +6,10 @@
 
 **Screenshots**
 
-[Solo](screens/ChampUI_Solo.jpg) [Party](screens/ChampUI_Party.jpg) [Raid](screens/ChampUI_Raid.jpg)
+ElvUI DPS & TANK
+
+[ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg) [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg) [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg)[ElvUI HEALER Party](screens/ChampUI_Party.jpg) [ElvUI HEALER Raid](screens/ChampUI_Raid.jpg) 
+[ElvUI Class WA](screens/ChampUI_ClassWA.jpg)
 
 **Minimalistic ElvUI Layout** 
 
@@ -54,3 +57,4 @@ Follow all steps
 **Credits to**
 - [Redtuzk](https://twitter.com/redtuzk)
 - [Naowh](https://twitter.com/Naowhxd)
+- [Liroo](https://wago.io/nFopWlIoQ)
