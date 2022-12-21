@@ -6,15 +6,15 @@
 
 **Screenshots**
 
-ElvUI DPS & TANK
+ - ElvUI DPS & TANK
 
 [ElvUI DPS & TANK Solo](screens/ChampUI_Solo.jpg?raw=true) [ElvUI DPS & TANK Party](screens/ChampUI_Party.jpg?raw=true) [ElvUI DPS & TANK Raid](screens/ChampUI_Raid.jpg?raw=true)
 
-ElvUI Class Weak Auras Friendly *WIP*
+- ElvUI Class Weak Auras Friendly *WIP*
 
 [ElvUI Class WA](screens/ChampUI_ClassWA.jpg?raw=true)
 
-ElvUI *WIP*
+- ElvUI HEALER *WIP*
 
 [ElvUI HEALER Party](screens/ChampUI_Party.jpg?raw=true) [ElvUI HEALER Raid](screens/ChampUI_Raid.jpg?raw=true) 
 
