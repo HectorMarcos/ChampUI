@@ -4,7 +4,7 @@
 ---
 *RedtuzkUI meets NaowhUI*
 
-As a user of RedtuzkUI for years I felt empty when its not been updated for 10.0 so I decided to port the RedtuzkUI profile to standard ElvUI making a few changes alongside.
+*As a user of RedtuzkUI for years I felt empty when its not been updated for 10.0 so I decided to port the RedtuzkUI profile to standard ElvUI making a few changes alongside.*
 
 **Minimalistic ElvUI Layout** 
 
