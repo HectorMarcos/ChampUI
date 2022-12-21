@@ -61,6 +61,7 @@ Follow all steps
 9. Type `/plater` in chat and press Enter to show Plater config panel, go to Profile tab, press Import and copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true) close Plater config.
 
 ---
+
 **Credits to...**
 - [Redtuzk](https://twitter.com/redtuzk)
 - [Naowh](https://twitter.com/Naowhxd)
