@@ -1,3 +1,4 @@
+[eng](readme.me) [esp](readme_esp.me)
 
 ![logo](screens/logo_alt.png?raw=true "logo")
 
