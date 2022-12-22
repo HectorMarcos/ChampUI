@@ -1,7 +1,7 @@
 ## Interface: 100002
-## Title: |cff69ccf0ChampUI|r
+## Author: NixonCrow
+## Version: 0.0.1
+## Title: |cff1784d1Champ|r|cffc41f3bUI|r
+## RequiredDeps: ElvUI, ElvUI_SLE
 
-libs\LibStub\LibStub.lua
-libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
-embeds.xml
-ChampUI.lua 
+media\load_media.xml
