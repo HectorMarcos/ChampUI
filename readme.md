@@ -57,8 +57,8 @@ Follow all steps
 ---
 **Another Tweaks**
 
-Chat Bubble No Border No Bachground (Even in dungeons)
--   [Download](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/Tooltips) `Tooltips` folder and put it into your `Interface` folder, netx to Addons folder. 
+Chat Bubble No Border No Background (Even in dungeons)
+-   [Download](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/Tooltips) `Tooltips` folder and put it into your `Interface` folder, netx to Addons folder.
 
 DraongRiding Custom WA, edit from Liroo
 

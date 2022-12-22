@@ -2,7 +2,6 @@
 ## Title: |cff1784d1Champ|r|cffc41f3bUI|r
 ## RequiredDeps: ElvUI, ElvUI_SLE
 
-media\media.lua
+media\load_media.xml
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
-embeds.xml
