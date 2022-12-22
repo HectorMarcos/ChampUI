@@ -27,11 +27,11 @@ ElvUI Class WeakAura Friendly: [Solo](screens/CUI_CWA.jpg?raw=true) | [Layout](s
 **Required Addons**
 
 -   [ElvUI](https://www.tukui.org/download.php?ui=elvui)
--   [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
--   [Details](https://www.curseforge.com/wow/addons/details)
 -   [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
 -   [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins)
 -   [ChampUI](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/ChampUI)
+-   [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
+-   [Details](https://www.curseforge.com/wow/addons/details)
 
 **Profiles**
 
@@ -50,7 +50,7 @@ Follow all steps
 
 1. Download [ElvUI](https://www.tukui.org/download.php?ui=elvui), [Plater](https://www.curseforge.com/wow/addons/plater-nameplates), [Details](https://www.curseforge.com/wow/addons/details), [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light), [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins), [ChampUI](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/ChampUI) and put those into your Addons folder.
 2. Start your game, make sure all required addons are loaded while you are on the character selection screen before you jump in to the game.
-3. In your first time launching the game you will get a bunch of windows on screen, close it all.
+3. In your first time launching the game you will get a bunch of windows on screen, type `/rl` on chat and press Enter to get rid of most of them, click `Plater` on the upward window and `Skip` on the middle one.
 4. Type `/ec` in chat and press Enter to show ElvUI config panel and go to `Profiles`.
 5. Press `Import Profile` and copy paste the ElvUI Profile you wish ([ElvUI - DPS & TANK](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_dps_tank.txt?raw=true) | [ElvUI - HEALER **_WIP_**](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_healer.txt?raw=true) | [ElvUI Class WeakAura Friendly](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_cwa.txt?raw=true) press `Import Now` and close this window.
 6. Press `Import Profile` again and copy paste [ElvUI Private Settings](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/elvui_private.txt?raw=true), press `Import Now` again, now you can close ElvUI Config Panel.
