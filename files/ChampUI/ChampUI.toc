@@ -5,3 +5,8 @@
 
 media\load_media.xml
 Core.lua
+ElvUI_Settings.lua
+Details_Settings.lua
+Plater_Settings.lua
+BigWigs_Settings.lua
+InstallerData.lua
