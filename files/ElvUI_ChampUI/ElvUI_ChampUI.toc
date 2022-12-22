@@ -1,0 +1,15 @@
+## Interface: 100002
+## Author: NixonCrow
+## Version: 0.01
+## Title: |cff1784d1ElvUI|r |cff4beb2cChampUI|r
+## Notes: Contains layouts from NixonCrow
+## RequiredDeps: ElvUI, ElvUI_SLE
+
+media\load_media.xml
+
+Core.lua
+InstallerData.lua
+
+Dumps\ElvUIDump.lua
+
+Elvuiimport.lua
