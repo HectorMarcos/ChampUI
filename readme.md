@@ -3,9 +3,6 @@
 ![logo](screens/logo.png?raw=true "logo")
 
 ---
-
-github test
-
 _RedtuzkUI meets NaowhUI_
 
 _As a user of RedtuzkUI for years I felt empty when its not been updated for 10.0 so I decided to port the RedtuzkUI profile to standard ElvUI making a few changes alongside._
@@ -27,7 +24,6 @@ ElvUI HEALER _WIP_: [Party](screens/ChampUI_Party.jpg?raw=true) | [Raid](screens
 ElvUI Class WeakAura Friendly: [Solo](screens/ChampUI_CWA.jpg?raw=true) | [Layout](screens/ChampUI_CWA_Layout.jpg?raw=true)
 
 ---
-
 **Required Addons**
 
 -   [ElvUI](https://www.tukui.org/download.php?ui=elvui)
@@ -35,8 +31,7 @@ ElvUI Class WeakAura Friendly: [Solo](screens/ChampUI_CWA.jpg?raw=true) | [Layou
 -   [Details](https://www.curseforge.com/wow/addons/details)
 -   [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
 -   [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins)
--   [SharedMedia](https://www.curseforge.com/wow/addons/sharedmedia)
--   [SharedMedia_MyMedia](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/_retail_)
+-   [ChampUI](https://downgit.github.io/)
 
 **Profiles**
 
@@ -52,7 +47,6 @@ ElvUI Class WeakAura Friendly: [Solo](screens/ChampUI_CWA.jpg?raw=true) | [Layou
 -   [DragonRiding](https://github.com/HectorMarcos/ChampUI/blob/master/wa/dragonriding.txt?raw=true)
 
 ---
-
 **How To Tutorial**
 
 Follow all steps
@@ -68,7 +62,12 @@ Follow all steps
 9. Type `/plater` in chat and press Enter to show Plater config panel, go to `Profiles` tab, press `Import Profile`, copy paste [Plater Profile](https://github.com/HectorMarcos/ChampUI/blob/master/profiles/plater.txt?raw=true) close Plater config.
 
 ---
+**Another Tweaks**
 
+Chat Bubble No Border No Bachground (Even in dungeons)
+- [Download](https://downgit.github.io/) `Tooltips` folder and put it into your `Interface` folder, netx to Addons folder. 
+
+---
 **Credits to...**
 
 -   [Redtuzk](https://twitter.com/redtuzk)
