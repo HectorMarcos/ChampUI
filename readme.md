@@ -13,8 +13,6 @@ _As a user of RedtuzkUI for years I felt empty when its not been updated for 10.
 -   Style consistency
 -   Ultrawide resolution Support
 
-ghtest
-
 **Screenshots**
 
 ElvUI DPS & TANK: [Solo](screens/CUI_Solo.jpg?raw=true) | [Party](screens/CUI_Party.jpg?raw=true) | [Raid](screens/CUI_Raid.jpg?raw=true) | [Layout](screens/CUI_Layout.jpg?raw=true)
