@@ -59,7 +59,11 @@ Follow all steps
 
 ---
 
-**Another Tweaks**
+**Another Tweaks & Recommended Addons**
+
+HidingBar, to keep hidden all addon's minimap icons
+
+-   [HidingBar](https://www.curseforge.com/wow/addons/hidingbar)
 
 Chat Bubble No Border No Background (Even in dungeons)
 
