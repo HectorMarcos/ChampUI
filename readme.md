@@ -59,6 +59,11 @@ Follow all steps
 
 ---
 
+**FAQ**
+
+Q: I'am using Class WeakAura Firendly Profile and I cannot see my castbar or power bar.
+R: It's meant to be like that, most of Class WeakAura already include those frames, so there is no need to have it duplicated.
+
 **Another Tweaks & Recommended Addons**
 
 HidingBar, to keep hidden all addon's minimap icons
