@@ -30,7 +30,7 @@ ElvUI Class WeakAura Friendly: [Solo](screens/CUI_CWA.jpg?raw=true) | [Layout](s
 -   [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
 -   [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins)
 -   [ActionBar Buddy (ElvUI Plugin)](https://www.curseforge.com/wow/addons/actionbar-buddy-elvui-plugin)
--   [ChampUI](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/ChampUI)
+-   [ChampUI Media](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/ChampUI)
 -   [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
 -   [Details](https://www.curseforge.com/wow/addons/details)
 
