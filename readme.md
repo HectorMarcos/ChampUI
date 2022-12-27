@@ -29,6 +29,7 @@ ElvUI Class WeakAura Friendly: [Solo](screens/CUI_CWA.jpg?raw=true) | [Layout](s
 -   [ElvUI](https://www.tukui.org/download.php?ui=elvui)
 -   [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light)
 -   [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins)
+-   [ActionBar Buddy (ElvUI Plugin)](https://www.curseforge.com/wow/addons/actionbar-buddy-elvui-plugin)
 -   [ChampUI](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/ChampUI)
 -   [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
 -   [Details](https://www.curseforge.com/wow/addons/details)
@@ -48,7 +49,7 @@ ElvUI Class WeakAura Friendly: [Solo](screens/CUI_CWA.jpg?raw=true) | [Layout](s
 
 Follow all steps
 
-1. Download [ElvUI](https://www.tukui.org/download.php?ui=elvui), [Plater](https://www.curseforge.com/wow/addons/plater-nameplates), [Details](https://www.curseforge.com/wow/addons/details), [Shadow & Lights](https://www.curseforge.com/wow/addons/elvui-shadow-light), [AddonsSkins](https://www.curseforge.com/wow/addons/addonskins), [ChampUI](https://downgit.github.io/#/home?url=https://github.com/HectorMarcos/ChampUI/tree/master/files/ChampUI) and put those into your Addons folder.
+1. Download all required addons and put those into your Addons folder.
 2. Start your game, make sure all required addons are loaded while you are on the character selection screen before you jump in to the game.
 3. In your first time launching the game you will get a bunch of windows on screen, type `/rl` on chat and press Enter to get rid of most of them, click `Plater` on the upward window and `Skip` on the middle one.
 4. Type `/ec` in chat and press Enter to show ElvUI config panel and go to `Profiles`.
